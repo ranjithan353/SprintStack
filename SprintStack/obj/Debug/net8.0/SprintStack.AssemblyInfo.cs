@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SprintStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+892551b3983df86ec8c9b396de82d316a8a08249")]
 [assembly: System.Reflection.AssemblyProductAttribute("SprintStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SprintStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
